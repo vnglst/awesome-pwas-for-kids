@@ -9,6 +9,7 @@
 
 ## Educational
 
+- [Memory](https://maaatch.games/) - play memory with fun little icons + sheep sounds
 - [Finding Nora](https://finding-nora.com/) - learn to spell by finding the letters of your name.
 - [Peter and the Wolf](https://finding-nora.com/) - the classical fairy tale on music written by Sergei Prokofiev as a PWA.
 - [Little Alchemy 2](https://littlealchemy2.com/) - a lot of fun, addictive and educational. Suitable for kids > 4.
@@ -18,6 +19,7 @@
 - [Tower Game](http://towergame.app) - build a tower by throwing bricks on a pile - harder than it looks!
 - [Dino Game](https://offline-dino-game.firebaseapp.com/) - inspired by Google's offline game. Pretty addictive, even for parents.
 - [Hextris](http://hextris.io/) - Tetris, but with hexagonals.
+- [2048](https://2048-opera-pwa.surge.sh/) -
 
 ## Contribute
 
